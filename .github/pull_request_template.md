@@ -1,6 +1,7 @@
 ## Checklist
-- [] I have read the [CONTRIBUTING.md]()
+- [] Pull request has reference to JIRA ticket
+- [] Referenced JIRA ticket descrition contains all necessary information for proper QA
 - [] I have made corresponding changes to the documentation
-- [] My changes generate no lint errors
-- [] I have added tests that prove my fix is effective or that my feature works
-- [] New and existing unit tests pass locally with my changes
+- [] I have added tests that prove my code is effective or that my feature works
+
+---
