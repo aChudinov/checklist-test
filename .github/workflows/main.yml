@@ -9,4 +9,4 @@ jobs:
     steps:
       - uses: kentaro-m/task-completed-checker-action@v0.1.1
         with:
-          repo-token: ${{ secrets.GH_TOKEN }}
+          repo-token: 03914fae04a93cc04e542d111a682db29dc71174
